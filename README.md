@@ -45,8 +45,9 @@ pip install colorama tabulate
 ```
 
 ### 3️⃣ Run the App
-python todo.py
-
+```bash
+python TO-DO-LIST.py
+```
 
 ## 📂 Project Structure
 
